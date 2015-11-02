@@ -1,0 +1,336 @@
+Do you want to enter a string? (y/n): y
+Enter a string: www.commercial.com
+www.commercial.com
+--> 0
+w --> 1
+w --> 2
+w --> 3
+. --> 4
+c --> 5
+o --> 6
+m --> 11
+m --> 19
+e --> 19
+r --> 19
+c --> 19
+i --> 19
+a --> 19
+l --> 19
+. --> 12
+c --> 13
+o --> 14
+m --> 15
+ACCEPTED
+
+Do you want to enter a string? (y/n): y
+Enter a string: www.co.com
+www.co.com
+--> 0
+w --> 1
+w --> 2
+w --> 3
+. --> 4
+c --> 5
+o --> 6
+. --> 7
+c --> 8
+o --> 9
+m --> 10
+ACCEPTED
+
+Do you want to enter a string? (y/n): y
+Enter a string: www.x.com
+www.x.com
+--> 0
+w --> 1
+w --> 2
+w --> 3
+. --> 4
+x --> 19
+. --> 12
+c --> 13
+o --> 14
+m --> 15
+ACCEPTED
+
+Do you want to enter a string? (y/n): y
+Enter a string: njit.com
+njit.com
+--> 0
+n --> 19
+j --> 19
+i --> 19
+t --> 19
+. --> 12
+c --> 13
+o --> 14
+m --> 15
+ACCEPTED
+
+Do you want to enter a string? (y/n): y
+Enter a string: www.standford.com
+www.standford.com
+--> 0
+w --> 1
+w --> 2
+w --> 3
+. --> 4
+s --> 19
+t --> 19
+a --> 19
+n --> 19
+d --> 19
+f --> 19
+o --> 19
+r --> 19
+d --> 19
+. --> 12
+c --> 13
+o --> 14
+m --> 15
+ACCEPTED
+
+Do you want to enter a string? (y/n): y
+Enter a string: www.com.com
+www.com.com
+--> 0
+w --> 1
+w --> 2
+w --> 3
+. --> 4
+c --> 5
+o --> 6
+m --> 11
+. --> 12
+c --> 13
+o --> 14
+m --> 15
+ACCEPTED
+
+Do you want to enter a string? (y/n): y
+Enter a string: ww.com.com
+ww.com.com
+--> 0
+w --> 1
+w --> 2
+. --> 12
+c --> 13
+o --> 14
+m --> 15
+. --> 20
+c --> 20
+o --> 20
+m --> 20
+REJECTED
+
+Do you want to enter a string? (y/n): y
+Enter a string: co.com
+co.com
+--> 0
+c --> 19
+o --> 19
+. --> 12
+c --> 13
+o --> 14
+m --> 15
+ACCEPTED
+
+Do you want to enter a string? (y/n): y
+Enter a string: www.www.com.com
+www.www.com.com
+--> 0
+w --> 1
+w --> 2
+w --> 3
+. --> 4
+w --> 19
+w --> 19
+w --> 19
+. --> 12
+c --> 13
+o --> 14
+m --> 15
+. --> 20
+c --> 20
+o --> 20
+m --> 20
+REJECTED
+
+Do you want to enter a string? (y/n): y
+Enter a string: ww.com
+ww.com
+--> 0
+w --> 1
+w --> 2
+. --> 12
+c --> 13
+o --> 14
+m --> 15
+ACCEPTED
+
+Do you want to enter a string? (y/n): y
+Enter a string: www.com
+www.com
+--> 0
+w --> 1
+w --> 2
+w --> 3
+. --> 4
+c --> 5
+o --> 6
+m --> 11
+ACCEPTED
+
+Do you want to enter a string? (y/n): y
+Enter a string: wwd.com
+wwd.com
+--> 0
+w --> 1
+w --> 2
+d --> 19
+. --> 12
+c --> 13
+o --> 14
+m --> 15
+ACCEPTED
+
+Do you want to enter a string? (y/n): y
+Enter a string: wwwb.com
+wwwb.com
+--> 0
+w --> 1
+w --> 2
+w --> 3
+b --> 19
+. --> 12
+c --> 13
+o --> 14
+m --> 15
+ACCEPTED
+
+Do you want to enter a string? (y/n): y
+Enter a string: www..com
+www..com
+--> 0
+w --> 1
+w --> 2
+w --> 3
+. --> 4
+. --> 20
+c --> 20
+o --> 20
+m --> 20
+REJECTED
+
+Do you want to enter a string? (y/n): y
+Enter a string: www.abcd.co 
+www.abcd.co
+--> 0
+w --> 1
+w --> 2
+w --> 3
+. --> 4
+a --> 19
+b --> 19
+c --> 19
+d --> 19
+. --> 12
+c --> 13
+o --> 14
+REJECTED
+
+Do you want to enter a string? (y/n): y
+Enter a string: www.company.co.uk
+www.company.co.uk
+--> 0
+w --> 1
+w --> 2
+w --> 3
+. --> 4
+c --> 5
+o --> 6
+m --> 11
+p --> 19
+a --> 19
+n --> 19
+y --> 19
+. --> 12
+c --> 13
+o --> 14
+. --> 16
+u --> 17
+k --> 18
+ACCEPTED
+
+Do you want to enter a string? (y/n): y
+Enter a string: company.co.uk
+company.co.uk
+--> 0
+c --> 19
+o --> 19
+m --> 19
+p --> 19
+a --> 19
+n --> 19
+y --> 19
+. --> 12
+c --> 13
+o --> 14
+. --> 16
+u --> 17
+k --> 18
+ACCEPTED
+
+Do you want to enter a string? (y/n): y
+Enter a string: www.co.co.uk
+www.co.co.uk
+--> 0
+w --> 1
+w --> 2
+w --> 3
+. --> 4
+c --> 5
+o --> 6
+. --> 7
+c --> 8
+o --> 9
+. --> 16
+u --> 17
+k --> 18
+ACCEPTED
+
+Do you want to enter a string? (y/n): y
+Enter a string: www.com.co.uk
+www.com.co.uk
+--> 0
+w --> 1
+w --> 2
+w --> 3
+. --> 4
+c --> 5
+o --> 6
+m --> 11
+. --> 12
+c --> 13
+o --> 14
+. --> 16
+u --> 17
+k --> 18
+ACCEPTED
+
+Do you want to enter a string? (y/n): y
+Enter a string: www.co.uk
+www.co.uk
+--> 0
+w --> 1
+w --> 2
+w --> 3
+. --> 4
+c --> 5
+o --> 6
+. --> 7
+u --> 17
+k --> 18
+ACCEPTED
+
+Do you want to enter a string? (y/n): n

@@ -1,0 +1,1107 @@
+Do you want to enter a string? (y/n): y
+Enter Sting: $a_3B$
+$a_3B$
+Starting State: q0
+READ: $
+POP: nothing
+PUSH: $
+NEW STATE: q1
+READ: a
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: _
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: 3
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: B
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: $
+POP: $
+PUSH: nothing
+NEW STATE: q5
+ACCEPTED
+
+Do you want to enter a string? (y/n): y
+Enter Sting: $ba76_+R*d3-fg_45n/Hi6$
+$ba76_+R*d3-fg_45n/Hi6$
+Starting State: q0
+READ: $
+POP: nothing
+PUSH: $
+NEW STATE: q1
+READ: b
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: a
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: 7
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: 6
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: _
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: +
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: R
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: *
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: d
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: 3
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: -
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: f
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: g
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: _
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: 4
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: 5
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: n
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: /
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: H
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: i
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: 6
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: $
+POP: $
+PUSH: nothing
+NEW STATE: q5
+ACCEPTED
+
+Do you want to enter a string? (y/n): y
+Enter Sting: $ba+c4*7e-f8/h98u$
+$ba+c4*7e-f8/h98u$
+Starting State: q0
+READ: $
+POP: nothing
+PUSH: $
+NEW STATE: q1
+READ: b
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: a
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: +
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: c
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: 4
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: *
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: 7
+POP: nothing
+PUSH: nothing
+NEW STATE: trap state!
+REJECTED
+
+Do you want to enter a string? (y/n): y
+Enter Sting: $(x23g)y33$
+$(x23g)y33$
+Starting State: q0
+READ: $
+POP: nothing
+PUSH: $
+NEW STATE: q1
+READ: (
+POP: nothing
+PUSH: (
+NEW STATE: q3
+READ: x
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: 2
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: 3
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: g
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: )
+POP: (
+PUSH: nothing
+NEW STATE: q4
+READ: y
+POP: nothing
+PUSH: nothing
+NEW STATE: trap state!
+REJECTED
+
+Do you want to enter a string? (y/n): y
+Enter Sting: $(((r1+er-fs)*j5))*(a2)$
+$(((r1+er-fs)*j5))*(a2)$
+Starting State: q0
+READ: $
+POP: nothing
+PUSH: $
+NEW STATE: q1
+READ: (
+POP: nothing
+PUSH: (
+NEW STATE: q3
+READ: (
+POP: nothing
+PUSH: (
+NEW STATE: q3
+READ: (
+POP: nothing
+PUSH: (
+NEW STATE: q3
+READ: r
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: 1
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: +
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: e
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: r
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: -
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: f
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: s
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: )
+POP: (
+PUSH: nothing
+NEW STATE: q4
+READ: *
+POP: nothing
+PUSH: nothing
+NEW STATE: q3
+READ: j
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: 5
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: )
+POP: (
+PUSH: nothing
+NEW STATE: q4
+READ: )
+POP: (
+PUSH: nothing
+NEW STATE: q4
+READ: *
+POP: nothing
+PUSH: nothing
+NEW STATE: q3
+READ: (
+POP: nothing
+PUSH: (
+NEW STATE: q3
+READ: a
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: 2
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: )
+POP: (
+PUSH: nothing
+NEW STATE: q4
+READ: $
+POP: $
+PUSH: nothing
+NEW STATE: q5
+ACCEPTED
+
+Do you want to enter a string? (y/n): y
+Enter Sting: $(t0+wk)*bn)/c1$
+$(t0+wk)*bn)/c1$
+Starting State: q0
+READ: $
+POP: nothing
+PUSH: $
+NEW STATE: q1
+READ: (
+POP: nothing
+PUSH: (
+NEW STATE: q3
+READ: t
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: 0
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: +
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: w
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: k
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: )
+POP: (
+PUSH: nothing
+NEW STATE: q4
+READ: *
+POP: nothing
+PUSH: nothing
+NEW STATE: q3
+READ: b
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: n
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: )
+POP: (
+PUSH: nothing
+NEW STATE: q4
+READ: /
+POP: nothing
+PUSH: nothing
+NEW STATE: q3
+READ: c
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: 1
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: $
+POP: $
+PUSH: nothing
+NEW STATE: q5
+REJECTED
+
+Do you want to enter a string? (y/n): y                     
+Enter Sting: $(((ui+ej*(vk+ci))/pt)$
+$(((ui+ej*(vk+ci))/pt)$
+Starting State: q0
+READ: $
+POP: nothing
+PUSH: $
+NEW STATE: q1
+READ: (
+POP: nothing
+PUSH: (
+NEW STATE: q3
+READ: (
+POP: nothing
+PUSH: (
+NEW STATE: q3
+READ: (
+POP: nothing
+PUSH: (
+NEW STATE: q3
+READ: u
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: i
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: +
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: e
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: j
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: *
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: (
+POP: nothing
+PUSH: (
+NEW STATE: q3
+READ: v
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: k
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: +
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: c
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: i
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: )
+POP: (
+PUSH: nothing
+NEW STATE: q4
+READ: )
+POP: (
+PUSH: nothing
+NEW STATE: q4
+READ: /
+POP: nothing
+PUSH: nothing
+NEW STATE: q3
+READ: p
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: t
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: )
+POP: (
+PUSH: nothing
+NEW STATE: q4
+READ: $
+POP: $
+PUSH: nothing
+NEW STATE: q5
+REJECTED
+
+Do you want to enter a string? (y/n): y
+Enter Sting: $+g5$
+$+g5$
+Starting State: q0
+READ: $
+POP: nothing
+PUSH: $
+NEW STATE: q1
+READ: +
+POP: nothing
+PUSH: nothing
+NEW STATE: trap state!
+REJECTED
+
+Do you want to enter a string? (y/n): y
+Enter Sting: $a1a*(mb/(P+kd34E/e3)-FW)+yg/(((rw*y4_b_d-r57ee*t)/y6+ugf))$
+$a1a*(mb/(P+kd34E/e3)-FW)+yg/(((rw*y4_b_d-r57ee*t)/y6+ugf))$
+Starting State: q0
+READ: $
+POP: nothing
+PUSH: $
+NEW STATE: q1
+READ: a
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: 1
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: a
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: *
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: (
+POP: nothing
+PUSH: (
+NEW STATE: q3
+READ: m
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: b
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: /
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: (
+POP: nothing
+PUSH: (
+NEW STATE: q3
+READ: P
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: +
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: k
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: d
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: 3
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: 4
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: E
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: /
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: e
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: 3
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: )
+POP: (
+PUSH: nothing
+NEW STATE: q4
+READ: -
+POP: nothing
+PUSH: nothing
+NEW STATE: q3
+READ: F
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: W
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: )
+POP: (
+PUSH: nothing
+NEW STATE: q4
+READ: +
+POP: nothing
+PUSH: nothing
+NEW STATE: q3
+READ: y
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: g
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: /
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: (
+POP: nothing
+PUSH: (
+NEW STATE: q3
+READ: (
+POP: nothing
+PUSH: (
+NEW STATE: q3
+READ: (
+POP: nothing
+PUSH: (
+NEW STATE: q3
+READ: r
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: w
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: *
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: y
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: 4
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: _
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: b
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: _
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: d
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: -
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: r
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: 5
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: 7
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: e
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: e
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: *
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: t
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: )
+POP: (
+PUSH: nothing
+NEW STATE: q4
+READ: /
+POP: nothing
+PUSH: nothing
+NEW STATE: q3
+READ: y
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: 6
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: +
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: u
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: g
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: f
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: )
+POP: (
+PUSH: nothing
+NEW STATE: q4
+READ: )
+POP: (
+PUSH: nothing
+NEW STATE: q4
+READ: $
+POP: $
+PUSH: nothing
+NEW STATE: q5
+ACCEPTED
+
+Do you want to enter a string? (y/n): y
+Enter Sting: $g0*(hs+(df-*ft))$
+$g0*(hs+(df-*ft))$
+Starting State: q0
+READ: $
+POP: nothing
+PUSH: $
+NEW STATE: q1
+READ: g
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: 0
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: *
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: (
+POP: nothing
+PUSH: (
+NEW STATE: q3
+READ: h
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: s
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: +
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: (
+POP: nothing
+PUSH: (
+NEW STATE: q3
+READ: d
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: f
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: -
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: *
+POP: nothing
+PUSH: nothing
+NEW STATE: trap state!
+REJECTED
+
+Do you want to enter a string? (y/n): y
+Enter Sting: $(tg+(hy-j7))/uk)*ri+(eo/wp$
+$(tg+(hy-j7))/uk)*ri+(eo/wp$
+Starting State: q0
+READ: $
+POP: nothing
+PUSH: $
+NEW STATE: q1
+READ: (
+POP: nothing
+PUSH: (
+NEW STATE: q3
+READ: t
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: g
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: +
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: (
+POP: nothing
+PUSH: (
+NEW STATE: q3
+READ: h
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: y
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: -
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: j
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: 7
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: )
+POP: (
+PUSH: nothing
+NEW STATE: q4
+READ: )
+POP: (
+PUSH: nothing
+NEW STATE: q4
+READ: /
+POP: nothing
+PUSH: nothing
+NEW STATE: q3
+READ: u
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: k
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: )
+POP: (
+PUSH: nothing
+NEW STATE: q4
+READ: *
+POP: nothing
+PUSH: nothing
+NEW STATE: q3
+READ: r
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: i
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: +
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: (
+POP: nothing
+PUSH: (
+NEW STATE: q3
+READ: e
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: o
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: /
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: w
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: p
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: $
+POP: $
+PUSH: nothing
+NEW STATE: q5
+REJECTED
+
+Do you want to enter a string? (y/n): y
+Enter Sting: $(tg+(hy-j9))/uk)ri$
+$(tg+(hy-j9))/uk)ri$
+Starting State: q0
+READ: $
+POP: nothing
+PUSH: $
+NEW STATE: q1
+READ: (
+POP: nothing
+PUSH: (
+NEW STATE: q3
+READ: t
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: g
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: +
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: (
+POP: nothing
+PUSH: (
+NEW STATE: q3
+READ: h
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: y
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: -
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: j
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: 9
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: )
+POP: (
+PUSH: nothing
+NEW STATE: q4
+READ: )
+POP: (
+PUSH: nothing
+NEW STATE: q4
+READ: /
+POP: nothing
+PUSH: nothing
+NEW STATE: q3
+READ: u
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: k
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: )
+POP: (
+PUSH: nothing
+NEW STATE: q4
+READ: r
+POP: nothing
+PUSH: nothing
+NEW STATE: trap state!
+REJECTED
+
+Do you want to enter a string? (y/n): y
+Enter Sting: $wm-(tn*bu)+$
+$wm-(tn*bu)+$
+Starting State: q0
+READ: $
+POP: nothing
+PUSH: $
+NEW STATE: q1
+READ: w
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: m
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: -
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: (
+POP: nothing
+PUSH: (
+NEW STATE: q3
+READ: t
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: n
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: *
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: b
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: u
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: )
+POP: (
+PUSH: nothing
+NEW STATE: q4
+READ: +
+POP: nothing
+PUSH: nothing
+NEW STATE: q3
+READ: $
+POP: nothing
+PUSH: nothing
+NEW STATE: trap state!
+REJECTED
+
+Do you want to enter a string? (y/n): y
+Enter Sting: $wm-tn(*bu)$
+$wm-tn(*bu)$
+Starting State: q0
+READ: $
+POP: nothing
+PUSH: $
+NEW STATE: q1
+READ: w
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: m
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: -
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: t
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: n
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: (
+POP: nothing
+PUSH: nothing
+NEW STATE: trap state!
+REJECTED
+
+Do you want to enter a string? (y/n): y
+Enter Sting: $wm-)tn*bu($
+$wm-)tn*bu($
+Starting State: q0
+READ: $
+POP: nothing
+PUSH: $
+NEW STATE: q1
+READ: w
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: m
+POP: nothing
+PUSH: nothing
+NEW STATE: q2
+READ: -
+POP: nothing
+PUSH: nothing
+NEW STATE: q1
+READ: )
+POP: nothing
+PUSH: nothing
+NEW STATE: trap state!
+REJECTED
+
+Do you want to enter a string? (y/n): n
